@@ -33,3 +33,4 @@ This project focuses on performing **exploratory data analysis (EDA)** on a real
 Gained hands-on experience in **data quality assessment, temporal analysis, and insight-driven visualization**, reinforcing the importance of asking the right questions before applying advanced models.
 
 ---
+# [Dashboard](https://public.tableau.com/views/OnlypicsathletesDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
